@@ -1,0 +1,16 @@
+pypdf
+python-dotenv
+pyvis
+transformers
+einops
+accelerate
+langchain
+bitsandbytes
+sentence_transformers
+langchain-community
+langchain-core
+llama-index
+llama-index-llms-huggingface
+llama-index-embeddings-langchain
+llama-index-embeddings-huggingface
+
